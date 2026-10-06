@@ -21,7 +21,7 @@
     },
     "steam_manifest": {
       "_comment": "Empty — offline users never sign into Steam. steamClient default stubbed in getDefaultComponent override.",
-      "include": []
+      "include": "all"
     },
     "libraries_manifest": {
       "_comment": "All 117 entries (winetricks-style installers, ~1 MB total). Cheap to include.",
