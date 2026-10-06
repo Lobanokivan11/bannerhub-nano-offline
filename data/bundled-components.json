@@ -35,7 +35,7 @@
 
   "containers": {
     "_comment": "Wine/Proton containers from simulator/v2/getContainerDetail/<id>. Bundling fetches both the wine archive AND the sub_data (wineprefix) for each id.",
-    "include": [10]
+    "include": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
   },
 
   "imagefs": {
