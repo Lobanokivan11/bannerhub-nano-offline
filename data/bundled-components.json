@@ -29,7 +29,7 @@
     },
     "games_manifest": {
       "_comment": "All *_Settings entries <1 MB plus base.tzst (id=8). Wine container archives in this manifest are skipped — containers section below handles those. Excluded IDs 236 (Torchlight II), 291 (WRC 9), 310 (Resident Evil 3) — catalog references them but binaries were never uploaded to GH Releases (404).",
-      "include": [8, 186, 204, 209, 212, 213, 214, 216, 217, 218, 219, 221, 226, 227, 230, 233, 238, 254, 277, 288, 295, 297, 301, 308, 309, 315, 339, 340, 359, 360, 361, 365, 366, 367, 368, 370, 371, 372, 377, 379, 382, 1295]
+      "include": [1367, 1316, 1295, 1137, 1136, 1135, 1134, 1133, 1132, 1131, 1130, 1129, 1106, 1105, 1102, 1100, 382, 379, 377, 372, 371, 370, 368, 367, 366, 365, 361, 360, 359, 341, 340, 339, 321, 315, 309, 308, 307, 301, 297, 295, 288, 277, 254, 240, 238, 235, 233, 230, 227, 226, 221, 219, 218, 217, 216, 215, 214, 213, 212, 209, 204, 203, 199, 186, 185, 183, 8]
     }
   },
 
